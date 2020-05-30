@@ -8,3 +8,12 @@ Work in progress! Don't expect this to work perfectly at the moment.
 Note that Facebook has dropped XMPP support so it won't work on their platform.
 
 Reworked from dom4notify based on sleekXMPP.
+
+Requirements
+---------
+
+python 3.7+
+
+slixmpp
+
+pyinotify
